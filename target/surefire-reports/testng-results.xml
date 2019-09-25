@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10724" started-at="2019-09-24T08:07:02Z" finished-at="2019-09-24T08:07:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10724" started-at="2019-09-24T08:07:02Z" finished-at="2019-09-24T08:07:13Z">
+      <class name="MyTest.TestProject.myClass">
+        <test-method status="PASS" signature="launchdriver()[pri:0, instance:MyTest.TestProject.myClass@3796751b]" name="launchdriver" is-config="true" duration-ms="3317" started-at="2019-09-24T13:37:02Z" finished-at="2019-09-24T13:37:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:MyTest.TestProject.myClass@3796751b]" name="Test1" duration-ms="856" started-at="2019-09-24T13:37:05Z" finished-at="2019-09-24T13:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="launchdriver()[pri:0, instance:MyTest.TestProject.myClass@3796751b]" name="launchdriver" is-config="true" duration-ms="2358" started-at="2019-09-24T13:37:06Z" finished-at="2019-09-24T13:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:MyTest.TestProject.myClass@3796751b]" name="Test2" duration-ms="864" started-at="2019-09-24T13:37:09Z" finished-at="2019-09-24T13:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="launchdriver()[pri:0, instance:MyTest.TestProject.myClass@3796751b]" name="launchdriver" is-config="true" duration-ms="2353" started-at="2019-09-24T13:37:09Z" finished-at="2019-09-24T13:37:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:MyTest.TestProject.myClass@3796751b]" name="Test3" duration-ms="943" started-at="2019-09-24T13:37:12Z" finished-at="2019-09-24T13:37:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- MyTest.TestProject.myClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
