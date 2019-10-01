@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="6806" started-at="2019-09-24T06:58:28Z" finished-at="2019-09-24T06:58:35Z">
+  <suite name="Suite" duration-ms="18928" started-at="2019-10-01T17:33:40Z" finished-at="2019-10-01T17:33:59Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="6806" started-at="2019-09-24T06:58:28Z" finished-at="2019-09-24T06:58:35Z">
+    <test name="Test" duration-ms="18928" started-at="2019-10-01T17:33:40Z" finished-at="2019-10-01T17:33:59Z">
       <class name="MyTest.TestProject.myClass">
-        <test-method status="PASS" signature="launchdriver()[pri:0, instance:MyTest.TestProject.myClass@47c62251]" name="launchdriver" is-config="true" duration-ms="4177" started-at="2019-09-24T06:58:28Z" finished-at="2019-09-24T06:58:32Z">
+        <test-method status="PASS" signature="launchdriver()[pri:0, instance:MyTest.TestProject.myClass@4b9e13df]" name="launchdriver" is-config="true" duration-ms="5877" started-at="2019-10-01T17:33:40Z" finished-at="2019-10-01T17:33:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchdriver -->
-        <test-method status="PASS" signature="launchdriver()[pri:0, instance:MyTest.TestProject.myClass@47c62251]" name="launchdriver" is-config="true" duration-ms="4269" started-at="2019-09-24T06:58:28Z" finished-at="2019-09-24T06:58:32Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchdriver -->
-        <test-method status="PASS" signature="launchdriver()[pri:0, instance:MyTest.TestProject.myClass@47c62251]" name="launchdriver" is-config="true" duration-ms="4760" started-at="2019-09-24T06:58:28Z" finished-at="2019-09-24T06:58:32Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchdriver -->
-        <test-method status="PASS" signature="Test2()[pri:0, instance:MyTest.TestProject.myClass@47c62251]" name="Test2" duration-ms="2576" started-at="2019-09-24T06:58:32Z" finished-at="2019-09-24T06:58:34Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test2 -->
-        <test-method status="PASS" signature="Test1()[pri:0, instance:MyTest.TestProject.myClass@47c62251]" name="Test1" duration-ms="2501" started-at="2019-09-24T06:58:32Z" finished-at="2019-09-24T06:58:35Z">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:MyTest.TestProject.myClass@4b9e13df]" name="Test1" duration-ms="2227" started-at="2019-10-01T17:33:46Z" finished-at="2019-10-01T17:33:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-        <test-method status="PASS" signature="Test3()[pri:0, instance:MyTest.TestProject.myClass@47c62251]" name="Test3" duration-ms="2014" started-at="2019-09-24T06:58:32Z" finished-at="2019-09-24T06:58:35Z">
+        <test-method status="PASS" signature="launchdriver()[pri:0, instance:MyTest.TestProject.myClass@4b9e13df]" name="launchdriver" is-config="true" duration-ms="3567" started-at="2019-10-01T17:33:48Z" finished-at="2019-10-01T17:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:MyTest.TestProject.myClass@4b9e13df]" name="Test2" duration-ms="2026" started-at="2019-10-01T17:33:51Z" finished-at="2019-10-01T17:33:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="launchdriver()[pri:0, instance:MyTest.TestProject.myClass@4b9e13df]" name="launchdriver" is-config="true" duration-ms="3015" started-at="2019-10-01T17:33:54Z" finished-at="2019-10-01T17:33:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:MyTest.TestProject.myClass@4b9e13df]" name="Test3" duration-ms="2153" started-at="2019-10-01T17:33:57Z" finished-at="2019-10-01T17:33:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test3 -->

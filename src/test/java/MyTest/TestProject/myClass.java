@@ -15,7 +15,7 @@ public class myClass {
 	@BeforeMethod
 	public void launchdriver()
 	{
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\sanjay.pg\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\sanjay.pg\\SonarQubeDemo\\Driver\\chromedriver.exe");
 	     driver=new ChromeDriver();
 	     driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 	     driver.manage().window();
